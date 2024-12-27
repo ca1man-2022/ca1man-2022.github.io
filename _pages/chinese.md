@@ -16,5 +16,5 @@ redirect_from:
 
 # 代表作
 
-1. [Cai, Tingyi, et al. ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection, AAAI, 2025](https://github.com/ca1man-2022/ML-GOOD).
+1. [Cai, Tingyi. et al. ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection, AAAI, 2025](https://github.com/ca1man-2022/ML-GOOD).
   
