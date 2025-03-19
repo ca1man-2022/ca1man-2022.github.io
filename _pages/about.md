@@ -14,9 +14,9 @@ My research interests include machine learning, graph deep learning and hypergra
 
 # NEWS (2024-2025 / Second grade)
 
-* February 2025📰 T. Cai, et al. "[Out-of-Distribution Detection on Graphs: A Survey](http://arxiv.org/html/2502.08105v1)", the first overview of graph OOD detection.
+* February 2025📰 Cai, T., et al. [Out-of-Distribution Detection on Graphs: A Survey](http://arxiv.org/html/2502.08105v1), the first overview of graph OOD detection.
 
-* **December 2024** 📰 T. Cai, et al. "[ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection](https://github.com/ca1man-2022/ML-GOOD)" is accepted by AAAI 2025.
+* **December 2024** 📰 Cai, T., et al. [ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection](https://github.com/ca1man-2022/ML-GOOD). is accepted by AAAI 2025.
 
 * December 2024 ☑️ Completed the final report for the 18th College Research Project, titled "Research on Out-of-Distribution Detection Algorithms for Multi-Label Graph Structured Data.
   
