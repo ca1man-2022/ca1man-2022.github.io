@@ -9,4 +9,4 @@ venue: 'under review'
 paperurl: 'https://github.com/ca1man-2022/Awesome-GOOD-Detection'
 
 citation: 'Cai, T.; Jiang, Y.; Liu, Y; Li, M.; Huang, C.; and Pan, S. 2025. Out-of-Distribution Detection on Graphs: A Survey.'
-
+---
