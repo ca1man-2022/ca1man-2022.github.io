@@ -14,6 +14,8 @@ My research interests include machine learning, graph deep learning and hypergra
 
 # NEWS (2024-2025 / Second grade)
 
+* March 2025 ☑️ Awarded '2025 Planted Talent Program of Zhejiang Province' (Out-of-Distribution Detection-Driven Knowledge Tracing Optimization with Special Education Application Research, 1/5).
+
 * February 2025📰 Cai, T., et al. [Out-of-Distribution Detection on Graphs: A Survey](http://arxiv.org/html/2502.08105v1), the first overview of graph OOD detection.
 
 * **December 2024** 📰 Cai, T., et al. [ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection](https://github.com/ca1man-2022/ML-GOOD). is accepted by AAAI 2025.
