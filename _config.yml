@@ -24,9 +24,9 @@ author:
   avatar           : "ME.jpg"
   name             : "Tingyi Cai"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, CST, ZJNU" # "PhD candidate"
+  bio              : "PhD student, CS" # "PhD candidate"
   location         : "China"
-  employer         : "Zhejiang Key Laboratory of Intelligent Education Technology and Application, Zhejiang Normal University"
+  employer         : "Zhejiang Normal University"
   uri              : # URL
   email            : "tingyicai@zjnu.edu.cn" # "none@example.org" 
 
