@@ -11,14 +11,19 @@ I received my BS degree in computer science and technology from [ZJNU](https://w
 
 My research interests include machine learning, graph deep learning and hypergraph representation learning.
 
+# NEWS (2025-2026 / Third grade)
 
-# NEWS (2024-2025 / Second grade)
+In the new semester, keep working hard!
+
+# 2024-2025 / Second grade
 
 * May 2025 📰 **T. Cai,** Y. Jiang, M. Li, L. Bai, C. Huang, Y. Wang. [HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks](https://openreview.net/pdf?id=Toy3nwPhk4) is accepted by ICML 2025 (CCF A).
 
 * April 2025 📰 Y. Wang, C. Huang, M. Li, **T. Cai,** Z. Zheng, X. Huang. [All Roads Lead to Rome: Exploring Edge Distribution Shifts for Heterophilic Graph Learning](https://kellysylvia77.github.io/H2OGNN/Appendix.pdf) is accepted by IJCAI 2025 (CCF A).
 
 * March 2025 ☑️ Awarded '2025 Planted Talent Program of Zhejiang Province' (Out-of-Distribution Detection-Driven Knowledge Tracing Optimization with Special Education Application Research, 1/5).
+
+* February 2025 👣 Attended the AAAI conference in Philadelphia, USA, and gave a poster presentation at the main venue. 
 
 * February 2025📰 **T. Cai,** Y. Jiang, Y. Liu, M. Li, C. Huang, S. Pan. [Out-of-Distribution Detection on Graphs: A Survey](http://arxiv.org/html/2502.08105v1), the first survey of graph OOD detection (GOOD detection).
 
