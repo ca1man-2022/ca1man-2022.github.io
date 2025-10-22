@@ -13,7 +13,9 @@ My research interests include machine learning, graph deep learning and hypergra
 
 # NEWS (2025-2026 / Third grade)
 
-In the new semester, keep working hard!
+* October 2025 😃 Honored as an 'Outstanding Graduate Student Vanguard'.
+
+* October 2025 👣 In the autumn semester of 2025, I delivered a party lecture titled "Responsibilities and Commitments of Young Party Members in the Era of Artificial Intelligence" at the Party School (Jinhua Campus). 
 
 # 2024-2025 / Second grade
 
