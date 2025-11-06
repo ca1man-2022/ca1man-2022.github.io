@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cai, Tingyi (听依)"
+title                    : "Tingyi Cai 蔡听依"
 title_separator          : "-"
 name                     : &name "CTY"
 description              : &description "personal description"
