@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my BS degree in computer science and technology from [ZJNU](https://www.zjnu.edu.cn/main.htm), in 2023. I am currently working toward the Ph.D degree.
+I am currently a Ph.D. student in computer science from [ZJNU](https://www.zjnu.edu.cn/main.htm), Zhejiang, China. I received my BS degree in computer science and technology from ZJNU, in 2023.
 
-My research interests include machine learning, graph deep learning and hypergraph representation learning.
+My research interests are mainly in **Machine Learning on Graphs and Hypergraphs**, including **out-of-distribution (OOD) detection**, **OOD generalization**, and **adversarial attack**.
 
 # NEWS (2025-2026 / Third grade)
 
