@@ -22,5 +22,5 @@ redirect_from:
 
 2. [Cai et al., HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks, in ICML, 2025.](https://github.com/ca1man-2022/HyperNear)
 
-3. [Cai et al. HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs, in AAAI, 2026.](https://github.com/ca1man-2022/HyperGOOD)
+3. [Cai et al., HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs, in AAAI, 2026.](https://github.com/ca1man-2022/HyperGOOD)
   
