@@ -18,7 +18,9 @@ redirect_from:
 
 # 代表作
 
-1. [Cai et al. ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection. In AAAI, 2025.](https://github.com/ca1man-2022/ML-GOOD)
+1. [Cai et al., ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection, in AAAI, 2025.](https://github.com/ca1man-2022/ML-GOOD)
 
-2. [Cai et al. HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks. In ICML, 2025.](https://github.com/ca1man-2022/HyperNear)
+2. [Cai et al., HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks, in ICML, 2025.](https://github.com/ca1man-2022/HyperNear)
+
+3. [Cai et al. HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs, in AAAI, 2026.](https://github.com/ca1man-2022/HyperGOOD)
   
