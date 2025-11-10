@@ -13,7 +13,7 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 # NEWS (2025-2026 / Third grade)
 
-* November 2025 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, C. Gao, Z. Zheng. HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs is accepted by AAAI 2026 (CCF A).
+* November 2025 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, Y. Fang, C. Gao, Z. Zheng. HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs is accepted by AAAI 2026 (CCF A).
 
 * October 2025 😃 Honored as an 'Outstanding Graduate Student Vanguard'.
 
