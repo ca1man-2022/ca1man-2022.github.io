@@ -31,7 +31,7 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 * February 2025 👣 Attended the AAAI conference in Philadelphia, USA, and gave a poster presentation at the main venue. 
 
-* February 2025 📰 **T. Cai,** Y. Jiang, Y. Liu, M. Li, C. Huang, S. Pan. [Out-of-Distribution Detection on Graphs: A Survey](http://arxiv.org/html/2502.08105v1), the first survey of graph OOD detection (GOOD detection).
+* February 2025 📰 **T. Cai,** Y. Jiang, Y. Liu, M. Li, C. Huang, S. Pan. [Out-of-Distribution Detection on Graphs: A Survey](https://arxiv.org/pdf/2502.08105), the first survey of graph OOD detection (GOOD detection).
 
 * December 2024 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, Y. Wang, Q. Huang. [ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/33718) is accepted by AAAI 2025 (CCF A).
 
