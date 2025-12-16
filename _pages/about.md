@@ -13,7 +13,7 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 # NEWS (2025-2026 / Third grade)
 
-* December 2025 ☑️ Awarded 2025 CAST Young Scientists Development Program (Doctoral Student Track) (原“中国科协青年科技人才托举工程博士生专项计划”).
+* December 2025 🚩 Congratulations to Tingyi Cai on being selected for the [2025 CAST Young Scientists Development Program (Doctoral Student Track)](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc).
 
 * November 2025 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, Y. Fang, C. Gao, Z. Zheng. [HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs](https://github.com/ca1man-2022/HyperGOOD) is accepted by AAAI 2026 (CCF A).
 
