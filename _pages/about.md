@@ -13,6 +13,8 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 # NEWS (2025-2026 / Third grade)
 
+* January 2026 👣 Attended the AAAI-26 conference in EXPO, Singapore, and gave a poster presentation at the main venue. 
+
 * December 2025 🚩 Congratulations to Tingyi Cai on being selected for the [2025 CAST Young Scientists Development Program (Doctoral Student Track)](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc).
 
 * November 2025 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, Y. Fang, C. Gao, Z. Zheng. [HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs](https://github.com/ca1man-2022/HyperGOOD) is accepted by AAAI 2026 (CCF A).
@@ -29,7 +31,7 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 * March 2025 ☑️ Awarded '2025 Planted Talent Program of Zhejiang Province' (Out-of-Distribution Detection-Driven Knowledge Tracing Optimization with Special Education Application Research, 1/5).
 
-* February 2025 👣 Attended the AAAI conference in Philadelphia, USA, and gave a poster presentation at the main venue. 
+* February 2025 👣 Attended the AAAI-25 conference in Philadelphia, USA, and gave a poster presentation at the main venue. 
 
 * February 2025 📰 **T. Cai,** Y. Jiang, Y. Liu, M. Li, C. Huang, S. Pan. [Out-of-Distribution Detection on Graphs: A Survey](https://arxiv.org/pdf/2502.08105), the first survey of graph OOD detection (GOOD detection).
 
