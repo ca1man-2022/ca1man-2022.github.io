@@ -11,16 +11,16 @@ redirect_from:
 
 2023年，我在该校获得计算机科学与技术学士学位，在郑忠龙教授Tracking组内完成计算机视觉相关毕业设计。
 
-目前的研究兴趣是图和超图机器学习，包括分布外检测、分布外泛化和对抗性攻击。
+目前的研究兴趣是图和超图机器学习，包括分布外检测和分布外泛化。
 
-我正在探索学术领域的道路，感谢关注，相信好事发生。
+我正在探索学术领域的道路，欢迎合作：）
 
 
 # 代表作
 
-1. [Cai et al., ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection, in AAAI, 2025.](https://github.com/ca1man-2022/ML-GOOD)
+1. [Cai et al., ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection, in AAAI, 2025.](https://github.com/ca1man-2022/ML-GOOD) (CCF A)
 
-2. [Cai et al., HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks, in ICML, 2025.](https://github.com/ca1man-2022/HyperNear)
+2. [Cai et al., HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks, in ICML, 2025.](https://github.com/ca1man-2022/HyperNear) (CCF A)
 
-3. [Cai et al., HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs, in AAAI, 2026.](https://github.com/ca1man-2022/HyperGOOD)
+3. [Cai et al., HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs, in AAAI, 2026.](https://github.com/ca1man-2022/HyperGOOD) (CCF A)
   
