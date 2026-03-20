@@ -15,9 +15,9 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 * [2026.01] 👣 Attended the AAAI-26 conference in EXPO, Singapore, and gave a poster presentation at the main venue. 
 
-* [2025.12] 🚩 Congratulations to Tingyi Cai on being selected for the [2025 CAST Young Scientists Development Program (Doctoral Student Track)](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc).
+* [2025.12] 🚩 Congratulations to Tingyi Cai on being selected for the [Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc).
 
-* [2025.11] 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, Y. Fang, C. Gao, Z. Zheng. [HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs](https://github.com/ca1man-2022/HyperGOOD) is accepted by AAAI 2026 (CCF A).
+* [2025.11] 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, Y. Fang, C. Gao, Z. Zheng. [HyperGOOD: Towards Out-of-Distribution Detection in Hypergraphs](https://ojs.aaai.org/index.php/AAAI/article/view/39064) is accepted by AAAI 2026 (CCF-A / CAAI-A).
 
 * [2025.10] 😃 Honored as an 'Outstanding Graduate Student Vanguard'.
 
@@ -25,9 +25,9 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 # 2024-2025 / Second grade
 
-* [2025.05] 📰 **T. Cai,** Y. Jiang, M. Li, L. Bai, C. Huang, Y. Wang. [HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks](https://openreview.net/pdf?id=Toy3nwPhk4) is accepted by ICML 2025 (CCF A).
+* [2025.05] 📰 **T. Cai,** Y. Jiang, M. Li, L. Bai, C. Huang, Y. Wang. [HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks](https://proceedings.mlr.press/v267/cai25b.html) is accepted by ICML 2025 (CCF-A / CAAI-A).
 
-* [2025.04] 📰 Y. Wang, C. Huang, M. Li, **T. Cai,** Z. Zheng, X. Huang. [All Roads Lead to Rome: Exploring Edge Distribution Shifts for Heterophilic Graph Learning](https://kellysylvia77.github.io/H2OGNN/Appendix.pdf) is accepted by IJCAI 2025 (CCF A).
+* [2025.04] 📰 Y. Wang, C. Huang, M. Li, **T. Cai,** Z. Zheng, X. Huang. [All Roads Lead to Rome: Exploring Edge Distribution Shifts for Heterophilic Graph Learning](https://kellysylvia77.github.io/H2OGNN/Appendix.pdf) is accepted by IJCAI 2025 (CCF-B / CAAI-A).
 
 * [2025.03] ☑️ Awarded '2025 Planted Talent Program of Zhejiang Province' (Out-of-Distribution Detection-Driven Knowledge Tracing Optimization with Special Education Application Research, 1/5).
 
@@ -35,7 +35,7 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 * [2025.02] 📰 **T. Cai,** Y. Jiang, Y. Liu, M. Li, C. Huang, S. Pan. [Out-of-Distribution Detection on Graphs: A Survey](https://arxiv.org/pdf/2502.08105), the first survey of graph OOD detection (GOOD detection).
 
-* [2024.12] 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, Y. Wang, Q. Huang. [ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/33718) is accepted by AAAI 2025 (CCF A).
+* [2024.12] 📰 **T. Cai,** Y. Jiang, M. Li, C. Huang, Y. Wang, Q. Huang. [ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/33718) is accepted by AAAI 2025 (CCF-A / CAAI-A).
 
 * [2024.12] ☑️ Completed the final report for the 18th College Research Project, titled "Research on Out-of-Distribution Detection Algorithms for Multi-Label Graph Structured Data", 1/2.
   
