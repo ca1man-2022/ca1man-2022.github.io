@@ -13,6 +13,8 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 # NEWS (2025-2026 / Third grade)
 
+* [2026.04] 📰 Li, Q.; **Cai, T.**; Zhao, R.; Li, X.; Li, M., CEGNN: Cross-Environment Consistent Graph Neural Networks for Robust OOD Generalization, is accepted by FLINS-ISKE 2026.
+
 * [2026.01] 👣 Attended the AAAI-26 conference in EXPO, Singapore, and gave a poster presentation at the main venue. 
 
 * [2025.12] 🚩 Congratulations to Tingyi Cai on being selected for the [Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc).
@@ -21,7 +23,20 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 * [2025.10] 😃 Honored as an 'Outstanding Graduate Student Vanguard'.
 
-* [2025.10] 👣 In the autumn semester of 2025, I delivered a party lecture titled "Responsibilities and Commitments of Young Party Members in the Era of Artificial Intelligence" at the Party School (Jinhua Campus). 
+* [2025.10] 👣 In the autumn semester of 2025, I delivered a party lecture titled "Responsibilities and Commitments of Young Party Members in the Era of Artificial Intelligence" at the Party School (Jinhua Campus).
+
+  
+# Reviewer
+
+* 《IEEE Transactions on Systems, Man and Cybernetics: Systems》
+
+* 《Neural Network》
+
+* 《Applied Soft Computing Journal》
+  
+* 《Frontiers in Artificial Intelligence》
+  
+* 《Frontiers in Robotics and AI, section Robot Learning and Evolution》
 
 # 2024-2025 / Second grade
 
@@ -63,6 +78,7 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 * November 2023 🏅 Won the 2th prize in badminton competition.
   
 * November 2023 👣 Presented an Oral report at the 7th Asian Conference on Artificial Intelligence Technology, held in Quzhou.
+
 
 
 ---
