@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tingyi Cai 蔡听依"
+title                    : "Cai Tingyi 蔡听依"
 title_separator          : "-"
-name                     : &name "CTY"
+name                     : &name "Tingyi"
 description              : &description "personal description"
 url                      : https://ca1man-2022.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ME25.JPG"
+  avatar           : "ME25.jpg"
   name             : "Tingyi Cai"
   pronouns         : # example: "she/her"  
   bio              : "PhD student, CS" # "PhD candidate"
