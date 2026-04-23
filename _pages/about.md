@@ -28,6 +28,8 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
   
 # Reviewer
 
+* 《NeurIPS》
+
 * 《IEEE Transactions on Systems, Man and Cybernetics: Systems》
 
 * 《Neural Network》
