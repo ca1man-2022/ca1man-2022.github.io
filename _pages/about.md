@@ -9,9 +9,17 @@ redirect_from:
 
 I am currently a Ph.D. student in computer science from [ZJNU](https://www.zjnu.edu.cn/main.htm), Zhejiang, China. I received my BS degree in computer science and technology from ZJNU, in 2023.
 
+I received the CSC Scholarship and will join the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University (NTU) as a visiting PhD student.
+
 My research interests are mainly in **Machine Learning on Graphs and Hypergraphs**, including out-of-distribution (OOD) detection, and OOD generalization.
 
 # NEWS (2025-2026 / Third grade)
+
+* [2026.05] 👣 Attended the CGML 2026 conference in Changchun, Jinlin, and gave a poster presentation.
+
+* [2026.05] 😃 Honored as an 'Top Ten Outstanding Students Award', one of the university’s highest student honors.
+
+* [2026.05] 😃 Honored with the 'Li Xing · Endeavor Award' at ZJNU’s “Shining You” Student Role Model Honor Ceremony.
 
 * [2026.04] 📰 Li, Q.; **Cai, T.**; Zhao, R.; Li, X.; Li, M., CEGNN: Cross-Environment Consistent Graph Neural Networks for Robust OOD Generalization, is accepted by FLINS-ISKE 2026.
 
