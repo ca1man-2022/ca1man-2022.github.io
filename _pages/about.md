@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Ph.D. student in computer science from [ZJNU](https://www.zjnu.edu.cn/main.htm), Zhejiang, China. I received my BS degree in computer science and technology from ZJNU, in 2023.
 
-I received the CSC Scholarship and will join the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University (NTU) as a visiting PhD student.
+I received the CSC Scholarship and will join the SPMS, Nanyang Technological University (NTU) as a visiting PhD student (2026- ).
 
 My research interests are mainly in **Machine Learning on Graphs and Hypergraphs**, including out-of-distribution (OOD) detection, and OOD generalization.
 
