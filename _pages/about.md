@@ -7,13 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in computer science from [ZJNU](https://www.zjnu.edu.cn/main.htm), Zhejiang, China. I received my BS degree in computer science and technology from ZJNU, in 2023.
+I am currently a Ph.D. student in computer science from [ZJNU](https://www.zjnu.edu.cn/main.htm), Zhejiang, China.
 
-I received the CSC Scholarship and will join the SPMS, Nanyang Technological University (NTU) as a visiting PhD student (2026- ).
+Also, a visiting Ph.D. student in Nanyang Technological University ([NTU](https://personal.ntu.edu.sg/XIAKELIN//)), Singapore. I received my BS degree in computer science and technology from ZJNU, in 2023.
 
 My research interests are mainly in **Machine Learning on Graphs and Hypergraphs**, including out-of-distribution (OOD) detection, and OOD generalization.
 
-# NEWS (2025-2026 / Third grade)
+
+# NEWS (2026-2027 / Fourth grade)
+
+
+
+  
+
+# 2025-2026 / Third grade
 
 * [2026.05] 👣 Attended the CGML 2026 conference in Changchun, Jinlin, and gave a poster presentation.
 
@@ -21,7 +28,7 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 * [2026.05] 😃 Honored with the 'Li Xing · Endeavor Award' at ZJNU’s “Shining You” Student Role Model Honor Ceremony.
 
-* [2026.04] 📰 Li, Q.; **Cai, T.**; Zhao, R.; Li, X.; Li, M., CEGNN: Cross-Environment Consistent Graph Neural Networks for Robust OOD Generalization, is accepted by FLINS-ISKE 2026.
+* [2026.04] 📰 Li, Q.; **Cai, T.**; Zhao, R.; Li, X.; Li, M., CEGNN: Cross-Environment Consistent Graph Neural Networks for Robust OOD Generalization, is accepted by FLINS-ISKE 2026 (also **Outstanding Student Paper Award**).
 
 * [2026.01] 👣 Attended the AAAI-26 conference in EXPO, Singapore, and gave a poster presentation at the main venue. 
 
@@ -33,20 +40,6 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 
 * [2025.10] 👣 In the autumn semester of 2025, I delivered a party lecture titled "Responsibilities and Commitments of Young Party Members in the Era of Artificial Intelligence" at the Party School (Jinhua Campus).
 
-  
-# Reviewer
-
-* 《NeurIPS》
-
-* 《IEEE Transactions on Systems, Man and Cybernetics: Systems》
-
-* 《Neural Network》
-
-* 《Applied Soft Computing Journal》
-  
-* 《Frontiers in Artificial Intelligence》
-  
-* 《Frontiers in Robotics and AI, section Robot Learning and Evolution》
 
 # 2024-2025 / Second grade
 
@@ -89,6 +82,22 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
   
 * November 2023 👣 Presented an Oral report at the 7th Asian Conference on Artificial Intelligence Technology, held in Quzhou.
 
+
+# Reviewer
+
+* 《NeurIPS》
+
+* 《AAAI》
+
+* 《IEEE Transactions on Systems, Man and Cybernetics: Systems》
+
+* 《Neural Network》
+
+* 《Applied Soft Computing Journal》
+  
+* 《Frontiers in Artificial Intelligence》
+  
+* 《Frontiers in Robotics and AI, section Robot Learning and Evolution》
 
 
 ---
