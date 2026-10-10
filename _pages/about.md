@@ -17,7 +17,7 @@ My research interests are mainly in **Machine Learning on Graphs and Hypergraphs
 # NEWS (2026-2027 / Fourth grade)
 
 
-
+* [2026.10] ☑️ We have updated Graph OOD Detection Survey [repository](https://github.com/ca1man-2022/Awesome-GOOD-Detection), covering the latest 68 papers and classifications.
   
 
 # 2025-2026 / Third grade
