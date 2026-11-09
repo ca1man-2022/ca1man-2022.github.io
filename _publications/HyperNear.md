@@ -7,7 +7,7 @@ date: 2025-05-01
 permalink: /publication/HyperNear
 excerpt: A study of unnoticeable node injection attacks and adversarial robustness in hypergraph neural networks.
 paperurl: https://proceedings.mlr.press/v267/cai25b.html
-citation: 'Cai T, Jiang Y, Li M, et al. HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks[C]//Forty-second International Conference on Machine Learning.'
+citation: 'Cai, T., Jiang, Y., Li, M., Bai, L., Huang, C., & Wang, Y. (2025). HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks. In Proceedings of the 42nd International Conference on Machine Learning, Proceedings of Machine Learning Research, 267, 6193–6210. PMLR.'
 authors: T. Cai, Y. Jiang, M. Li, L. Bai, C. Huang, and Y. Wang
 selected: true
 codeurl: https://github.com/ca1man-2022/HyperNear
