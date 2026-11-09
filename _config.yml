@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "ME25.jpg"
   name             : "Tingyi Cai"
+  display_name     : "Tingyi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at ZJNU · Visiting Ph.D. student at NTU" # "PhD candidate"
   location         : "Singapore"
