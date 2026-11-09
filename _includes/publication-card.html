@@ -1,0 +1,7 @@
+<article class="publication-card">
+  <p class="publication-card__venue">{{ post.venue | escape }} {{ post.date | date: "%Y" }}</p>
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+  <p class="publication-card__authors">{{ post.authors | escape }}</p>
+  <p>{{ post.excerpt | strip_html }}</p>
+  <p class="publication-card__links"><a href="{{ post.paperurl }}">Paper</a>{% if post.codeurl %} · <a href="{{ post.codeurl }}">{% if post.category == 'manuscripts' %}Resources{% else %}Code{% endif %}</a>{% endif %}</p>
+</article>
