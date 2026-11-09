@@ -23,16 +23,11 @@ My research focuses on **reliable learning on graphs and hypergraphs**. I study 
 
 [All publications and survey](/publications/)
 
-## Recent news
+## News & milestones
 
-- **Oct 2026** · Updated the [Graph OOD Detection Survey repository](https://github.com/ca1man-2022/Awesome-GOOD-Detection) with recent papers and a revised classification.
-- **May 2026** · Received ZJNU’s Top Ten Outstanding Students Award and Li Xing · Endeavor Award.
-- **May 2026** · Presented a poster at CGML 2026 in Changchun, Jilin.
-- **Apr 2026** · CEGNN was accepted at FLINS-ISKE 2026 and received an Outstanding Student Paper Award.
-- **Jan 2026** · Presented HyperGOOD at AAAI 2026 in Singapore.
-- **Dec 2025** · Selected for the [CAST Doctoral Student Program](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc).
-
-[Earlier updates](/news/)
+<div class="news-timeline" markdown="1">
+{% include homepage-news.md %}
+</div>
 
 ## Academic service
 
@@ -43,3 +38,5 @@ My research focuses on **reliable learning on graphs and hypergraphs**. I study 
 ## Elsewhere
 
 I share reading notes on [CSDN](https://blog.csdn.net/bocaiaichila?type=blog).
+
+[CCF conference deadlines](https://ccfddl.com/)

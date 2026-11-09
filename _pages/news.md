@@ -54,7 +54,7 @@ Updates from my research and university life. [Back to my homepage](/).
 
 * [2024.11] 😃 Awarded the 'First Prize Academic Scholarship'.
 
-* [2024.11] 👣 Attended the 12nd Graduate Representative Congress of ZJNU as a representative of the graduate students from CST.
+* [2024.11] 👣 Attended the 12th Graduate Representative Congress of ZJNU as a representative of the graduate students from CST.
 
 * [2024.11] 🏅 Won the 5th prize in badminton competition.
 
@@ -71,4 +71,4 @@ Updates from my research and university life. [Back to my homepage](/).
 
 * November 2023 🏅 Won the 2nd prize in badminton competition.
 
-* November 2023 👣 Presented an oral presentation at the 7th Asian Conference on Artificial Intelligence Technology, held in Quzhou.
+* November 2023 👣 Gave an oral presentation at the 7th Asian Conference on Artificial Intelligence Technology, held in Quzhou.

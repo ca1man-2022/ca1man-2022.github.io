@@ -51,3 +51,21 @@
   .publication-card__authors { font-size: 0.85em; }
   .publication-card__links { font-size: 0.85em; }
 }
+
+/* Preserve all updates; use hierarchy and rhythm rather than hiding content. */
+.news-timeline {
+  h3 { margin-top: 1.8em; color: $link-color; font-size: 1.05em; }
+  ul { list-style: none; border-left: 2px solid #e8ecee; padding-left: 1.15em; margin-left: 0.25em; }
+  li { position: relative; margin-bottom: 1.15em; font-size: 0.9em; line-height: 1.65; }
+  li::before { content: ""; position: absolute; left: -1.58em; top: 0.55em; width: 0.5em; height: 0.5em; border-radius: 50%; background: $link-color; }
+}
+.publication-card__abstract { font-size: 0.9em; line-height: 1.7; }
+.publication-card__citation { font-size: 0.8em; color: #596166; }
+.publication-card { overflow-wrap: anywhere; }
+
+/* Remove the desktop offset on phones and tablets. */
+@media screen and (max-width: 1023px) {
+  #main { margin-left: 0; margin-right: 0; width: 100%; }
+  .sidebar { position: static; height: auto; padding-top: 0; }
+  .author__content { padding-right: 12px; }
+}
