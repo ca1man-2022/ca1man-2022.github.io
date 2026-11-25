@@ -1,6 +1,6 @@
 ### 2026–2027 · Fourth year
 
-* [2026.10] ☑️ We have updated Graph OOD Detection Survey [repository](https://github.com/ca1man-2022/Awesome-GOOD-Detection), covering the latest 68 papers and classifications.
+* [Nov2026] ☑️ We have updated [Out-of-Distribution Detection on Graphs: A Survey and its repository](https://github.com/ca1man-2022/Awesome-GOOD-Detection), covering the latest 68 papers and classifications.
 
 
 ### 2025–2026 · Third year
