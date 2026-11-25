@@ -7,11 +7,13 @@
 
 * [2026.05] 👣 Attended the CGML 2026 conference in Changchun, Jilin, and gave a poster presentation.
 
-* [2026.05] 😃 Received the 'Top Ten Outstanding Students Award', one of the university’s highest student honors.
+* [2026.05] 😃 Awarded the First Place in 'Top Ten Outstanding Students Award', one of the Highest Student Honors of ZJNU.
 
 * [2026.05] 😃 Honored with the 'Li Xing · Endeavor Award' at ZJNU’s “Shining You” Student Role Model Honor Ceremony.
 
-* [2026.04] 📰 Li, Q.; **Cai, T.**; Zhao, R.; Li, X.; Li, M., CEGNN: Cross-Environment Consistent Graph Neural Networks for Robust OOD Generalization, was accepted by FLINS-ISKE 2026 (also **Outstanding Student Paper Award**).
+* [2026.04] 📰 Li, Q.; **Cai, T.**; Zhao, R.; Li, X.; Li, M., [CEGNN: Cross-Environment Consistent Graph Neural Networks for Robust OOD Generalization](https://link.springer.com/chapter/10.1007/978-981-92-2494-4_4), was accepted by FLINS-ISKE 2026 (also **Outstanding Student Paper Award**).
+
+* [2026.01]🏅 Congratulations on the [Outstanding Paper Award](https://ojs.aaai.org/index.php/AAAI/article/view/39469) of our [GraphME Lab](https://mingli-ai.github.io/graphme.github.io/)'s work in the AAAI 2026.
 
 * [2026.01] 👣 Attended the AAAI-26 conference in EXPO, Singapore, and gave a poster presentation at the main venue.
 
