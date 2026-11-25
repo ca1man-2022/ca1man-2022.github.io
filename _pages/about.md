@@ -12,6 +12,8 @@ excerpt: "Tingyi Cai studies reliable graph and hypergraph learning, with a focu
 
 I am a Ph.D. student in Computer Science and Technology at [Zhejiang Normal University (ZJNU)](https://www.zjnu.edu.cn/main.htm), advised by Prof. Yunliang Jiang and [Prof. Ming Li](https://mingli-ai.github.io). I am also a visiting Ph.D. student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore, working with [Assoc. Prof. Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
 
+I was selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST, in 2025.
+
 My research focuses on **reliable learning on graphs and hypergraphs**, including out-of-distribution (OOD) detection/generalization, and OOD for retrieval-augmented generation (RAG).
 
 [Publications](/publications/) · [Google Scholar](https://scholar.google.cz/citations?user=taYw6VsAAAAJ&hl=zh-CN) · [GitHub](https://github.com/ca1man-2022) · [中文简介](/chinese/)
